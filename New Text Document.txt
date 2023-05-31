@@ -1,6 +1,6 @@
 hi mehak how are you
-<<<<<<< HEAD
+
 changes done by clone 2
 =======
 changes done by clone 1
->>>>>>> b6578e4007a150cc0c47b90d1549cf7d8ec37ee2
+changes done again 
