@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 hi mehak how are you
 changes done by clone 1
 new push from clone 1
+=======
+this from mehakbranch1
+>>>>>>> 6b4578d12a3c46d3840bd38270d6181bd559bf9f
